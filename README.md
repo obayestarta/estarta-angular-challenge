@@ -6,8 +6,8 @@ The task involves creating a project based on the provided design mockup. You wi
   
 ## API
 
- List of items 
-https://mocki.io/v1/e161b9f5-726e-4d8b-af87-1b2a0fe4e93b
+List of items
+> https://mocki.io/v1/e161b9f5-726e-4d8b-af87-1b2a0fe4e93b
 
 ## Requirements
 
@@ -25,5 +25,6 @@ https://mocki.io/v1/e161b9f5-726e-4d8b-af87-1b2a0fe4e93b
 
 ## Submit the task
 - Upload your project on a Github repository and reply to the email with **your repository link**.
- <small>Note: Please make sure the repository is public</small> 
+
+*Note: Please make sure the repository is public* 
 - Please note the deadline is **7 days** after receiving the task email.  
