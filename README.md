@@ -16,8 +16,8 @@ List of items
 - Make the list sortable by dragging the handle icon.
 - Each item has its own checkbox and the default value is taken from the API response.
 - Create a **new array** and save any edited item **only** if the following changes have been applied:
- -- If the checkbox status of the item has been changed.
- -- If the order of the item has been changed.
+    - If the checkbox status of the item has been changed.
+    - If the order of the item has been changed.
 - Display the edited items in a list.
 
 #####  Nice to have:
