@@ -3,6 +3,11 @@
 At Estarta Solutions, we are impressed with your background and expertise in front-end development, and we believe you would be a valuable addition to our team. As part of our hiring process, we have designed a task that will allow you to demonstrate your abilities and problem-solving skills in a practical setting.
 
 The task involves creating a project based on the provided design mockup. You will be required to implement the user interface using **HTML**, **CSS**, and **TypeScript** using **Angular** framework. Additionally, we encourage you to utilize **any libraries** you are comfortable with, to enhance the functionality and interactivity of the page.
+  
+## API
+
+ List of items 
+https://mocki.io/v1/e161b9f5-726e-4d8b-af87-1b2a0fe4e93b
 
 ## Requirements
 
